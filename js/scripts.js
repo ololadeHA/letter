@@ -1,8 +1,9 @@
 $(document).ready(function(){
+  
   $("#formOne").submit(function(e) {
     const name1Input = $("input#name1").val();
     const name2Input = $("input#name2").val();
-    const addressInput= $("input#address").val();
+    const addressInput = $("input#address").val();
     const stateInput = $("input#state").val();
     const email1Input = $("input#email1").val();
 
