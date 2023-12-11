@@ -54,5 +54,6 @@ section{
 .letter{
   display: none;
   box-sizing: border-box;
+  border: 6px solid green;
 }
 
